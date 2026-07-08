@@ -1,5 +1,6 @@
 # 📱 Instagram Automation Suite using Python
 
+
 This project is a complete automation toolkit for Instagram, built using **Python**, **Selenium**, and **BeautifulSoup**. It includes modules for account creation, mass messaging, post interactions (likes/comments/follow), hashtag-based messaging, and data scraping.
 
 <p align="center">
