@@ -4,7 +4,7 @@
 This project is a complete automation toolkit for Instagram, built using **Python**, **Selenium**, and **BeautifulSoup**. It includes modules for account creation, mass messaging, post interactions (likes/comments/follow), hashtag-based messaging, and data scraping.
 
 <p align="center">
-  <img src="https://github.com/TomoeGozen82/Instagram-Automation/blob/main/Instagram-Automation.png" alt="Modern Tinder UI 2026" width="85%"/>
+  <img src="https://github.com/HarperCodeLabs/Instagram-Automation/blob/main/Instagram-Automation.png" alt="Modern Tinder UI 2026" width="85%"/>
 </p>
 
 ---
