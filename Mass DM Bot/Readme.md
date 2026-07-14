@@ -3,7 +3,7 @@
 This bot allows you to automatically send multiple messages to your own Instagram followers using Python and Selenium.
 
 It logs in to your Instagram account, reads a list of usernames from a file named after your own username, and sends direct messages to the followers you specify. You can also define the number of times each message should be sent.
-
+  
 ---
 
 ## ✅ Getting Started
@@ -13,7 +13,7 @@ It logs in to your Instagram account, reads a list of usernames from a file name
 - You must create a file with the **same name as the Instagram username you will log in with**.
 - Inside that file:
   - First line: **Your own username**
-  - Following lines: **Usernames of the followers** you want to send messages to
+  - Following lines: **Usernames of the followers** you want to send messages to              
 
 📌 Example: If your Instagram username is `Ravi.txt`, then create a file named:
 ```
